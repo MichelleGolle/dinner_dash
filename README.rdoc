@@ -21,6 +21,6 @@ Initialize the database using the command "rake db:create db:migrate db:seed" to
 
 Then go to 'https://still-plateau-5936.herokuapp.com/' to checkout the site.
 
-This project was built on Rails 2.1.5
+This project was built on Rails 4.2.1
 
 Run the test suite using: "rspec"
